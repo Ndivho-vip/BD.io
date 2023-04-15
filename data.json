@@ -1,0 +1,28 @@
+{
+
+  "messages": [
+
+    {
+
+      "id": 1,
+
+      "text": "Hello, world!",
+
+      "timestamp": "2023-04-15T15:30:00Z"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "text": "How are you?",
+
+      "timestamp": "2023-04-15T15:31:00Z"
+
+    }
+
+  ]
+
+}
+
